@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img" aria-labelledby="title desc">
+  <title id="title">Daiy-chat</title>
+  <desc id="desc">Daiy-chat logo with heartbeat line and Make your day tagline</desc>
+  <g fill="none" stroke="#f7fbff" stroke-linecap="round" stroke-linejoin="round">
+    <path stroke-width="7" d="M170 399h77l12-1c9-2 9-26 19-25 14 2 13 30 27 28 12-2 14-68 20-108 8-45 14-81 20-81 9 0 11 86 18 139 8 58 12 132 21 132 9 0 15-103 22-103h55"/>
+    <path stroke-width="7" d="M875 399h55c8 0 12-28 28-28 13 0 18 26 35 26 19 0 26-39 45-39 13 0 18 30 28 30 8 0 12-55 20-107 8-52 12-78 18-78 8 0 11 73 18 119 8 53 12 106 20 106 8 0 12-83 20-83h50"/>
+  </g>
+  <path fill="#f7fbff" d="M440 218h384v12c-43 0-65 7-70 28v274c5 21 27 28 70 28v12H440v-12c43 0 65-7 70-28V258c-5-21-27-28-70-28z"/>
+  <text x="640" y="430" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="400" text-anchor="middle" letter-spacing="2">Daiy-chat</text>
+  <g fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="640" y="693" font-size="33" letter-spacing="5">—  Make your day  —</text>
+  </g>
+</svg>
