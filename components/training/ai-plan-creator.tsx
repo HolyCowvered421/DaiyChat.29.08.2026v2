@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import { Sparkles, ArrowRight, ArrowLeft, Loader as Loader2, Check, Dumbbell, Clock, Target, Metronome as Home, Heart, Zap } from 'lucide-react';
+import { Sparkles, ArrowRight, ArrowLeft, Loader as Loader2, Check, Dumbbell, Clock, Target, Heart, Zap } from 'lucide-react';
 import { Exercise, supabase } from '@/lib/supabase/client';
 import { useAuth } from '@/lib/supabase/auth-context';
 import { format } from 'date-fns';
